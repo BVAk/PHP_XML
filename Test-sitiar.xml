@@ -1,0 +1,100 @@
+<shop>
+     <positions>
+       <pos>
+         <uid>00000001</uid>
+         <title>Токкарп</title>
+         <price>2840</price>
+         <descr>Тумба под ТВ</descr>
+       </pos>
+       <pos>
+         <uid>00000002</uid>
+         <title>Тумба</title>
+         <price>14000</price>
+         <descr>Тумба под ТВ<br/>Цвет корпуса: черный;</descr>
+      </pos>
+       <pos>
+         <uid>00000003</uid>
+         <title>Токкарп</title>
+         <price>2840</price>
+         <descr>Тумба под ТВ</descr>
+       </pos>
+       <pos>
+         <uid>00000004</uid>
+         <title>Тумба</title>
+         <price>14000</price>
+         <descr>Тумба под ТВ<br/>Цвет корпуса: коричневый;</descr>
+      </pos>
+       <pos>
+         <uid>00000005</uid>
+         <title>Токкарп</title>
+         <price>2840</price>
+         <descr>Тумба под ТВ</descr>
+       </pos>
+       <pos>
+         <uid>00000006</uid>
+         <title>Мебель Тумба Токкарп</title>
+         <price>14000</price>
+         <descr>Тумба под ТВ<br/>Цвет корпуса: черный;</descr>
+      </pos>
+       <pos>
+         <uid>00000007</uid>
+         <title>Токкарп</title>
+         <price>2840</price>
+         <descr>Тумба под ТВ</descr>
+       </pos>
+       <pos>
+         <uid>00000008</uid>
+         <title>Тумба</title>
+         <price>14000</price>
+         <descr>Тумба под ТВ<br/>Цвет корпуса: темно-коричневый;</descr>
+      </pos>
+       <pos>
+         <uid>00000009</uid>
+         <title>Токкарп</title>
+         <price>2840</price>
+         <descr>Тумба под ТВ</descr>
+       </pos>
+       <pos>
+         <uid>00000010</uid>
+         <title>Тумба</title>
+         <price>14000</price>
+         <descr>Тумба под ТВ<br/>Цвет корпуса: черный;</descr>
+      </pos>
+       <pos>
+         <uid>00000011</uid>
+         <title>Токкарп</title>
+         <price>28440</price>
+         <descr>Тумба под ТВ</descr>
+       </pos>
+       <pos>
+         <uid>00000012</uid>
+         <title>Тумба</title>
+         <price>14000</price>
+         <descr>Тумба под ТВ<br/>Цвет корпуса: черный;</descr>
+      </pos>
+       <pos>
+         <uid>00000013</uid>
+         <title>Токкарп</title>
+         <price>8240</price>
+         <descr>Тумба под ТВ</descr>
+       </pos>
+       <pos>
+         <uid>00000014</uid>
+         <title>Тумба</title>
+         <price>164000</price>
+         <descr>Тумба под ТВ<br/>Цвет корпуса: белый;</descr>
+      </pos>
+       <pos>
+         <uid>00000015</uid>
+         <title>Токкарп</title>
+         <price>4840</price>
+         <descr>Тумба под ТВ</descr>
+       </pos>
+       <pos>
+         <uid>00000016</uid>
+         <title>Тумба</title>
+         <price>16000</price>
+         <descr>Тумба под ТВ<br/>Цвет корпуса: черный;</descr>
+      </pos>
+    </positions>
+</shop>
