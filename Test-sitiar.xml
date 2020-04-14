@@ -96,5 +96,11 @@
          <price>16000</price>
          <descr>Тумба под ТВ<br/>Цвет корпуса: черный;</descr>
       </pos>
+ <pos>
+         <uid>00000016</uid>
+         <title>Тумба</title>
+         <price>16000</price>
+         <descr>Стол<br/>Цвет корпуса: черный;</descr>
+      </pos>
     </positions>
 </shop>
