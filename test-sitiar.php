@@ -4,18 +4,20 @@ if (file_exists('Test-sitiar.xml')) {
     $shop = simplexml_load_file("Test-sitiar.xml");
     echo "<div class='catalog'> ";
     foreach ($shop->xpath('//pos') as $pos) {
-
+        $desc = str_replace(array('<descr>', '</descr>'), '', $pos->descr->asXML());
         echo <<<XML
-<div class="pos" id="{$pos->uid}"><img src="css/table.png">
-<div class="line"></div>
+<div class="pos" id="{{$pos->uid}}"><img src="css/table.png">
+<hr class="line"></hr>
 <div class="text">
+
  <div class="title">{$pos->title}</div>
- <div class="description">{$pos->descr}</div>
+
+ <div class="description">{$desc}</div>
  <div class="price">{$pos->price}</div> </div>
  </div>
 XML;
-    }echo "</div>";
-
+    }
+    echo "</div>";
 } else {
     exit('Failed to open Test-sitiar.xml.');
 }
